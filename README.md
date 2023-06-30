@@ -1,2 +1,2 @@
-# my_React
+# myReact
 I learn react.
